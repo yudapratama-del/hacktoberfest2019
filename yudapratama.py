@@ -1,0 +1,1 @@
+print ("I GEDE YUDA PRATAMA")
