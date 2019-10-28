@@ -1,1 +1,1 @@
-print (Wawan Indrawan)
+print ('Wawan Indrawan')
