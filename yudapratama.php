@@ -1,1 +1,3 @@
-echo "I GEDE YUDA PRATAMA"
+<?php
+echo "I Gede Yuda Pratama";
+?>
