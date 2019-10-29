@@ -1,1 +1,2 @@
 pint("AZMI")
+print("Zilullah")
